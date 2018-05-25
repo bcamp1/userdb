@@ -1,0 +1,6 @@
+bcamp1
+salt1
+hash1
+bcamp2
+salt2
+hash2
